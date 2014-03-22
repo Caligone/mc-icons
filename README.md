@@ -1,9 +1,11 @@
-mc-icons
-========
+# MC Icons
 
-CSS Sprited Minecraft icons
+A sprited Minecraft icons CSS sheet.
 
+#### Usage
+```html
+<span class="mc-icon mc-icon-wood_axe"></span>
+<span class="mc-icon mc-icon-wood_pickaxe"></span>
+```
 
-##### TODO
-* Clean animated sprites
-* Write a correct README
+The full classname list can be found in the index.html file.

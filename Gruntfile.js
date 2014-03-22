@@ -25,11 +25,8 @@ module.exports = function(grunt) {
     }
   });
 
-  // Load the plugin that provides the "uglify" task.
   grunt.loadNpmTasks('grunt-spritesmith');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
 
-
   grunt.registerTask('default', ['sprite', 'cssmin']);
-
 };
