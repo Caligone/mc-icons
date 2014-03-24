@@ -8,4 +8,4 @@ A sprited Minecraft icons CSS sheet.
 <span class="mc-icon mc-icon-wood_pickaxe"></span>
 ```
 
-The full classname list can be found in the index.html file.
+The full classname list can be found http://caligone.github.io/mc-icons.
