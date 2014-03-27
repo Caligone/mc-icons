@@ -1,3 +1,31 @@
 .mc-icon {
   display: inline-block;
+  zoom: 1.0;
+  -moz-transform:scale(1);
+  -moz-transform-origin: 0 0;
+}
+
+.mc-icon-8 {
+  display: inline-block;
+  zoom: 0.5;
+  -moz-transform:scale(0.5);
+  -moz-transform-origin: 0 0;
+}
+.mc-icon-32 {
+  display: inline-block;
+  zoom: 2;
+  -moz-transform:scale(2);
+  -moz-transform-origin: 0 0;
+}
+.mc-icon-64 {
+  display: inline-block;
+  zoom: 4;
+  -moz-transform:scale(4);
+  -moz-transform-origin: 0 0;
+}
+.mc-icon-128 {
+  display: inline-block;
+  zoom: 8;
+  -moz-transform:scale(8);
+  -moz-transform-origin: 0 0;
 }
